@@ -1,4 +1,4 @@
-# ICS20-unit1-07-JS
+# ICS20-unit2-02-JS
 
 [![Mr Coxall's Super Linter](https://github.com/sophie-nguyen-0/ICS2O-unit2-02-js/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/sophie-nguyen-0/ICS2O-unit2-02-js/actions/)
 
